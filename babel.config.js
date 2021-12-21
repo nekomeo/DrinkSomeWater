@@ -1,4 +1,4 @@
-const alias = require('./alias');
+// const alias = require('./alias');
 
 module.exports = {
   presets: ['module:metro-react-native-babel-preset'],
